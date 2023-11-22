@@ -1,38 +1,43 @@
 .App {
+  position: relative;
   text-align: center;
+  background: url('./b5e.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.overlay-filter {
+  background-color: rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.App-navbar {
+  background-color: black;
+  padding: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.App-navbar-brand {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.App-header {
+  padding: 20px;
+  color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.App-section {
+  padding: 20px;
+  color: white;
+}
+
+.App-footer {
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #ffffff;
 }
