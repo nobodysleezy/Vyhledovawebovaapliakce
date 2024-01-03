@@ -1,6 +1,5 @@
 
-![Uploading Snímek obrazovky 2024-01-03 v 11.47.12.png…]()
-
+![Uploading Snímek obrazovky 2024-01-03 v 11.51.01.png…]()
 
 
 # Getting Started with Create React App
