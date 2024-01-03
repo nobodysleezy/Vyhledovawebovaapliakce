@@ -1,8 +1,9 @@
+
+![Uploading Snímek obrazovky 2024-01-03 v 11.47.12.png…]()
+
+
+
 # Getting Started with Create React App
-![Uploading Snímek obrazovky 2024-01-03 v 11.47.12.png…]()
-
-![Uploading Snímek obrazovky 2024-01-03 v 11.47.12.png…]()
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
